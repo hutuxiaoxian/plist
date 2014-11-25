@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.imobpay.internal.ks-bmkushua</string>
 				<key>display-image</key>
-				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmkushua.png</string>
+				<string>https://raw.githubusercontent.com/hutuxiaoxian/plist/master/plist/bmkushua.png</string>
 				<key>bundle-version</key>
 				<string>1.3.0</string>
 				<key>kind</key>
