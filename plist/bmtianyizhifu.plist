@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.imobpay.internal.ks-bmtianyizhifu</string>
 				<key>display-image</key>
-				<string>https://raw.githubusercontent.com/hutuxiaoxian/plist/master/plist/bmtianyizhifu.png</string>
+				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmtianyizhifu.png</string>
 				<key>bundle-version</key>
 				<string>1.3.0</string>
 				<key>kind</key>
