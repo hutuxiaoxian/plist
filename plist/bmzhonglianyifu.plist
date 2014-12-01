@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmzhongliangyifu.ipa</string>
+					<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmzhonglianyifu.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.imobpay.internal.ks-bmzhongliangyifu</string>
 				<key>display-image</key>
-				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmzhongliangyifu.png</string>
+				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmzhonglianyifu.png</string>
 				<key>bundle-version</key>
 				<string>1.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>财付宝</string>
+				<string>中联易付</string>
 			</dict>
 		</dict>
 	</array>
