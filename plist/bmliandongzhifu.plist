@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.imobpay.internal.ks-bmliangdongzhifu</string>
+				<string>com.imobpay.internal.ks-bmliandongzhifu</string>
 				<key>display-image</key>
 				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmliandongzhifu.png</string>
 				<key>bundle-version</key>
@@ -25,7 +25,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>联动支付</string>
+				<string>优刷</string>
 			</dict>
 		</dict>
 	</array>
