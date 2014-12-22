@@ -21,11 +21,11 @@
 				<key>display-image</key>
 				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmkafubaovip.png</string>
 				<key>bundle-version</key>
-				<string>1.3.0</string>
+				<string>1.3.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>卡富宝</string>
+				<string>卡福宝</string>
 			</dict>
 		</dict>
 	</array>
