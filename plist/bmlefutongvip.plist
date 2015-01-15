@@ -21,11 +21,11 @@
 				<key>display-image</key>
 				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmlefutongvip.png</string>
 				<key>bundle-version</key>
-				<string>1.3.1</string>
+				<string>1.4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>乐付通VIP</string>
+				<string>乐付通</string>
 			</dict>
 		</dict>
 	</array>
