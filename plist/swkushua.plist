@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.imobpay.internal.ks-swkushua</string>
 				<key>display-image</key>
-				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/swkushua.png</string>
+				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/swkushua@2x.png</string>
 				<key>bundle-version</key>
 				<string>1.4.1</string>
 				<key>kind</key>
