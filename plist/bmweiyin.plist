@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmweiyin.ipa</string>
+					<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/app2.0/bmweiyin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>display-image</key>
 				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmweiyin.png</string>
 				<key>bundle-version</key>
-				<string>1.4.3</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
