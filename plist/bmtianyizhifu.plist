@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmtianyizhifu.png</string>
+					<string>http://www.coolpos.cn/newsoft-ios/img/bmtianyizhifu.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmtianyizhifu.png</string>
+					<string>http://www.coolpos.cn/newsoft-ios/img/bmtianyizhifu.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,9 +35,9 @@
 				<key>bundle-identifier</key>
 				<string>com.imobpay.internal.ks-bmtianyizhifu</string>
 				<key>display-image</key>
-				<string>https://github.com/hutuxiaoxian/plist/raw/master/plist/bmtianyizhifu.png</string>
+				<string>http://www.coolpos.cn/newsoft-ios/img/bmtianyizhifu.png</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>2.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
